@@ -21,12 +21,6 @@ Enjoy it!
 I'm a Dynamics 365 Developer, Web Developer, Back-end Developer with 10 years of experience creating software and APIs.
 
 
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
 ## Authors
 
 - [@uness126](https://github.com/uness126)
@@ -35,7 +29,6 @@ I'm a Dynamics 365 Developer, Web Developer, Back-end Developer with 10 years of
 
 ## 🚀 About Me
 I'm a Dynamics 365 Developer, Web Developer, Back-end Developer with 10 years of experience creating software and APIs.
-
 
 
 ## License
